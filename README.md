@@ -9,5 +9,5 @@ I’m currently working at [Gruppe Adler](github.com/gruppe-adler/) in my spare 
 <a href="https://twitter.com/nomisum" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="nomisum" height="30" width="30" /></a>
 <a href="https://dribbble.com/nomisum" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="nomisum" height="30" width="30" /></a>
 <a href="https://medium.com/@nomisum_19753" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@nomisum_19753" height="30" width="30" /></a>
-<a href="https://www.youtube.com/c/nomi2312" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="nomi2312" height="30" width="30" /></a>
+<a href="https://www.youtube.com/c/UC_GB3eWK14itSENk0fzTSCA" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="nomi2312" height="30" width="30" /></a>
 </p>
