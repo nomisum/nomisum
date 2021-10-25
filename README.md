@@ -11,3 +11,6 @@ I’m currently working at [Gruppe Adler](github.com/gruppe-adler/) in my spare 
 <a href="https://medium.com/@nomisum_19753" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@nomisum_19753" height="30" width="30" /></a>
 <a href="https://www.youtube.com/channel/UC_GB3eWK14itSENk0fzTSCA" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="nomi2312" height="30" width="30" /></a>
 </p>
+
+
+/[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nomisum&repo=github-readme-stats)](https://github.com/nomisum/github-readme-stats)
