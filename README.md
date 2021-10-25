@@ -13,4 +13,3 @@ I’m currently working at [Gruppe Adler](github.com/gruppe-adler/) in my spare 
 </p>
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nomisum)](https://github.com/nomisum/github-readme-stats)
