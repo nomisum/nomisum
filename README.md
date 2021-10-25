@@ -13,3 +13,5 @@ I’m currently working at [Gruppe Adler](github.com/gruppe-adler/) in my spare 
 </p>
 
 
+![nomisums GitHub stats](https://github-readme-stats.vercel.app/api?username=nomisum&show_icons=true)
+
