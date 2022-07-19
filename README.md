@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm nomisum</h1>
 <h3 align="center">A UX Designer from Berlin / Germany</h3>
 
-I’m currently working at [Gruppe Adler](github.com/gruppe-adler/) in my spare time and on the [idealo Internet GmbH](https://www.idealo.de/) Shopping Apps (iOS & Android) for a living.
+I’m currently working at [Gruppe Adler](https://github.com/gruppe-adler/) in my spare time and on the [idealo Internet GmbH](https://www.idealo.de/) Shopping Apps (iOS & Android) for a living.
 
 <p align="left"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/></p><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nomisum&layout=compact&hide=html" alt="nomisum" /></p>
 
